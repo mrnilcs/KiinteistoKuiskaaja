@@ -17,7 +17,7 @@ KiinteistöKuiskaaja on selaimen kirjanmerkki, joka tuo esiin Oikotien asuntolis
 6. **Korvaa URL**: Poista olemassa oleva URL ja liitä kopioidesi koodi.
 7. **Valmis!** Olet nyt asentanut KiinteistöKuiskaajan.
 
-![KiinteistöKuiskaaja](https://gifyu.com/image/S62tx)
+![KiinteistöKuiskaaja](https://s6.gifyu.com/images/S62tx.gif)
 
 ## Käyttöohje:
 
