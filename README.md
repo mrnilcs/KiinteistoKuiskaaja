@@ -1,12 +1,11 @@
 # KiinteistöKuiskaaja
 
-![KiinteistöKuiksaaja]([URL](https://github.com/mrnilcs/KiinteistoKuiskaaja/blob/main/IMG_8284.PNG?raw=true))
-
-
-
 **Paljasta Oikotien asuntolistauksien salatut tiedot.**
 
 KiinteistöKuiskaaja on selaimen kirjanmerkki, joka tuo esiin Oikotien asuntolistauksien piilotetut tiedot, kuten julkaisupäivämäärän ja suosion. Nämä tiedot eivät ole näkyvissä kaikille, mutta KiinteistöKuiskaaja antaa sinulle etulyöntiaseman näitä tietoja etsiessäsi.
+
+![KiinteistöKuiskaaja](https://github.com/mrnilcs/KiinteistoKuiskaaja/blob/main/IMG_8284.PNG?raw=true)
+
 
 ## Asennusohjeet iPhone-käyttäjille:
 
