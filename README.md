@@ -1,6 +1,7 @@
 # KiinteistöKuiskaaja
 
-![KiinteistöKuiksaaja](URL)
+![KiinteistöKuiksaaja]([URL](https://github.com/mrnilcs/KiinteistoKuiskaaja/blob/main/IMG_8284.PNG?raw=true))
+
 
 
 **Paljasta Oikotien asuntolistauksien salatut tiedot.**
