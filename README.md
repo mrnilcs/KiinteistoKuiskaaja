@@ -26,5 +26,3 @@ Kun olet Oikotien asuntolistauksessa, avaa kirjanmerkit ja valitse "KiinteistöK
 ## Tavoite:
 
 Autamme Oikotien käyttäjiä saamaan syvällisempää tietoa listauksista, jotta asunnon hankintaan liittyvät päätökset olisivat paremmin perusteltuja.
-
-**Huom**: Linkki `[tästä](#)` odottaa toiminnallisuutta koodin kopioimiseen. Integroi tarvittava skripti tai työkalu, jotta linkki toimisi oikein.
